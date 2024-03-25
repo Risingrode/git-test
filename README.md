@@ -8,6 +8,8 @@
 
 ## 第一章
 
+`git clone` 下来项目，然后是要 VScode 打开，然后进行修改。
+
 文件变成绿色，右边存在 U 标志，表示该文件被修改了，只不过没有提交
 
 <p align="center">
@@ -29,3 +31,12 @@
 <p align="center">
 <img src="https://cwrisingimage.oss-cn-beijing.aliyuncs.com/img/20240325164505.png"/>
 </p>
+点击同步，会自动更新到github。
+<p align="center">
+<img src="https://cwrisingimage.oss-cn-beijing.aliyuncs.com/img/20240325164607.png"/>
+</p>
+
+## 第三章
+
+Gitlens 插件
+<img src="https://cwrisingimage.oss-cn-beijing.aliyuncs.com/img/20240325165029.png"/>
