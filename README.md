@@ -44,7 +44,7 @@ Gitlens 插件
 <img src="https://cwrisingimage.oss-cn-beijing.aliyuncs.com/img/20240325165029.png"/>
 </p>
 
-分支合并
+分支合并，在 Main 的枝干下面，然后进行分支合并。
 
 <p align="center">
 <img src="https://cwrisingimage.oss-cn-beijing.aliyuncs.com/img/20240325165844.png"/>
